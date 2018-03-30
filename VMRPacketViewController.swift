@@ -9,7 +9,6 @@
 //     including creating the reflection and flipping the tile.
 //
 
-// sndfjvnj mlksmlv
 
 import UIKit
 
