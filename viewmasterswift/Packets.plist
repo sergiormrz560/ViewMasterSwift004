@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>subcategory</key>
+		<string>Florida</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A991</string>
+		<key>number</key>
+		<string>A991</string>
+		<key>title</key>
+		<string>Weeki Wachee</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Florida</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A984</string>
+		<key>number</key>
+		<string>A984</string>
+		<key>title</key>
+		<string>Golden Triangle</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>New York</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A654</string>
+		<key>number</key>
+		<string>A654</string>
+		<key>title</key>
+		<string>New York City Sightseeing Tour</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>New York</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A649</string>
+		<key>number</key>
+		<string>A649</string>
+		<key>title</key>
+		<string>New York City</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>South Dakota</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A487</string>
+		<key>number</key>
+		<string>A487</string>
+		<key>title</key>
+		<string>Mount Rushmore</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Colorado</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A321</string>
+		<key>number</key>
+		<string>A321</string>
+		<key>title</key>
+		<string>Pikes Peak</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CANADA PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A071</string>
+		<key>number</key>
+		<string>A071</string>
+		<key>title</key>
+		<string>Expo 67 General Tour</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CANADA PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A074</string>
+		<key>number</key>
+		<string>A074</string>
+		<key>title</key>
+		<string>Expo 67 Night Scenes</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>California</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A182</string>
+		<key>number</key>
+		<string>A182</string>
+		<key>title</key>
+		<string>Redwood Highway</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>New York</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A655</string>
+		<key>number</key>
+		<string>A655</string>
+		<key>title</key>
+		<string>Niagara Falls</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Maryland</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A783</string>
+		<key>number</key>
+		<string>A783</string>
+		<key>title</key>
+		<string>Annapolis U.S. Naval Academy</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Alabama</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A927</string>
+		<key>number</key>
+		<string>A927</string>
+		<key>title</key>
+		<string>Battleship U.S.S. Alabama</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Florida</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A988</string>
+		<key>number</key>
+		<string>A988</string>
+		<key>title</key>
+		<string>Busch Gardens</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Sweden</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B151</string>
+		<key>number</key>
+		<string>B151</string>
+		<key>title</key>
+		<string>Sweden</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Norway</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B153</string>
+		<key>number</key>
+		<string>B153</string>
+		<key>title</key>
+		<string>Norway</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>England</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B156</string>
+		<key>number</key>
+		<string>B156</string>
+		<key>title</key>
+		<string>England</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Spain</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B171</string>
+		<key>number</key>
+		<string>B171</string>
+		<key>title</key>
+		<string>Spain</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Vatican City</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B178</string>
+		<key>number</key>
+		<string>B178</string>
+		<key>title</key>
+		<string>Vatican City</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Switzerland</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B185</string>
+		<key>number</key>
+		<string>B185</string>
+		<key>title</key>
+		<string>Switzerland</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Germany</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B193</string>
+		<key>number</key>
+		<string>B193</string>
+		<key>title</key>
+		<string>Germany</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Russia</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B213</string>
+		<key>number</key>
+		<string>B213</string>
+		<key>title</key>
+		<string>Russia</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Israel</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B224</string>
+		<key>number</key>
+		<string>B224</string>
+		<key>title</key>
+		<string>Modern Israel</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>The Holy Land</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B226</string>
+		<key>number</key>
+		<string>B226</string>
+		<key>title</key>
+		<string>Holy Land</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Japan</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B262</string>
+		<key>number</key>
+		<string>B262</string>
+		<key>title</key>
+		<string>Japan</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Japan</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B269</string>
+		<key>number</key>
+		<string>B269</string>
+		<key>title</key>
+		<string>Expo &apos;70 General Tour 2</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Fairy Tales</string>
+		<key>category</key>
+		<string>CLASSIC TALES</string>
+		<key>imageFileNameBase</key>
+		<string>B300</string>
+		<key>number</key>
+		<string>B300</string>
+		<key>title</key>
+		<string>Snow White</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Fairy Tales</string>
+		<key>category</key>
+		<string>CLASSIC TALES</string>
+		<key>imageFileNameBase</key>
+		<string>B305</string>
+		<key>number</key>
+		<string>B305</string>
+		<key>title</key>
+		<string>Andersen&apos;s Fairy Tales</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Fairy Tales</string>
+		<key>category</key>
+		<string>CLASSIC TALES</string>
+		<key>imageFileNameBase</key>
+		<string>B312</string>
+		<key>number</key>
+		<string>B312</string>
+		<key>title</key>
+		<string>Grimm&apos;s Fairy Tales</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>THE WONDERFUL WORLD OF DISNEY</string>
+		<key>imageFileNameBase</key>
+		<string>B363</string>
+		<key>number</key>
+		<string>B363</string>
+		<key>title</key>
+		<string>Jungle Book</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Movies</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B390</string>
+		<key>number</key>
+		<string>B390</string>
+		<key>title</key>
+		<string>Fiddler on the Roof</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Movies</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B392</string>
+		<key>number</key>
+		<string>B392</string>
+		<key>title</key>
+		<string>King Kong</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CARTOON FAVORITES</string>
+		<key>imageFileNameBase</key>
+		<string>B536</string>
+		<key>number</key>
+		<string>B536</string>
+		<key>title</key>
+		<string>Peanuts</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CARTOON FAVORITES</string>
+		<key>imageFileNameBase</key>
+		<string>B538</string>
+		<key>number</key>
+		<string>B538</string>
+		<key>title</key>
+		<string>Beep Beep, the Road Runner</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CARTOON FAVORITES</string>
+		<key>imageFileNameBase</key>
+		<string>B545</string>
+		<key>number</key>
+		<string>B545</string>
+		<key>title</key>
+		<string>Casper&apos;s Ghostland</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B573</string>
+		<key>number</key>
+		<string>B573</string>
+		<key>title</key>
+		<string>Nanny and the Professor</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>HISTORY</string>
+		<key>imageFileNameBase</key>
+		<string>B725</string>
+		<key>number</key>
+		<string>B725</string>
+		<key>title</key>
+		<string>American Indian</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Spain</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>C251</string>
+		<key>number</key>
+		<string>C251</string>
+		<key>title</key>
+		<string>Barcelona</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>THE WONDERFUL WORLD OF DISNEY</string>
+		<key>imageFileNameBase</key>
+		<string>K69</string>
+		<key>number</key>
+		<string>K69</string>
+		<key>title</key>
+		<string>Snow White and the Seven Dwarfs</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>South Dakota</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A486</string>
+		<key>number</key>
+		<string>A486</string>
+		<key>title</key>
+		<string>Black Hills</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>New York</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A664</string>
+		<key>number</key>
+		<string>A664</string>
+		<key>title</key>
+		<string>Lake George - Adirondack Region</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Southern Area</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A889</string>
+		<key>number</key>
+		<string>A889</string>
+		<key>title</key>
+		<string>Great Smoky Mountains National Park</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Florida</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A962</string>
+		<key>number</key>
+		<string>A962</string>
+		<key>title</key>
+		<string>Silver Springs</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Five Little Countries of Europe</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B149</string>
+		<key>number</key>
+		<string>B149</string>
+		<key>title</key>
+		<string>Five Little Countries of Europe</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>England</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B157</string>
+		<key>number</key>
+		<string>B157</string>
+		<key>title</key>
+		<string>London</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Italy</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B180</string>
+		<key>number</key>
+		<string>B180</string>
+		<key>title</key>
+		<string>Italy</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Austria</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B198</string>
+		<key>number</key>
+		<string>B198</string>
+		<key>title</key>
+		<string>Austria</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Pakistan</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B233</string>
+		<key>number</key>
+		<string>B233</string>
+		<key>title</key>
+		<string>Pakistan</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>India</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B235</string>
+		<key>number</key>
+		<string>B235</string>
+		<key>title</key>
+		<string>India</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Japan</string>
+		<key>category</key>
+		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B270</string>
+		<key>number</key>
+		<string>B270</string>
+		<key>title</key>
+		<string>Expo &apos;70 Night Scenes</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>THE WONDERFUL WORLD OF DISNEY</string>
+		<key>imageFileNameBase</key>
+		<string>B362</string>
+		<key>number</key>
+		<string>B362</string>
+		<key>title</key>
+		<string>Winnie the Pooh and the Honey Tree</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Adventure Stories</string>
+		<key>category</key>
+		<string>CLASSIC TALES</string>
+		<key>imageFileNameBase</key>
+		<string>B370</string>
+		<key>number</key>
+		<string>B370</string>
+		<key>title</key>
+		<string>20,000 Leagues Under the Sea</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Christmas Stories</string>
+		<key>category</key>
+		<string>CLASSIC TALES</string>
+		<key>imageFileNameBase</key>
+		<string>B380</string>
+		<key>number</key>
+		<string>B380</string>
+		<key>title</key>
+		<string>Christmas Carol</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>THE WONDERFUL WORLD OF DISNEY</string>
+		<key>imageFileNameBase</key>
+		<string>B400</string>
+		<key>number</key>
+		<string>B400</string>
+		<key>title</key>
+		<string>Bambi</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Adventure Stories</string>
+		<key>category</key>
+		<string>CLASSIC TALES</string>
+		<key>imageFileNameBase</key>
+		<string>B425</string>
+		<key>number</key>
+		<string>B425</string>
+		<key>title</key>
+		<string>Heidi</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B478</string>
+		<key>number</key>
+		<string>B478</string>
+		<key>title</key>
+		<string>Mod Squad</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B485</string>
+		<key>number</key>
+		<string>B485</string>
+		<key>title</key>
+		<string>Flipper</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B497</string>
+		<key>number</key>
+		<string>B497</string>
+		<key>title</key>
+		<string>Laugh-In</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B498</string>
+		<key>number</key>
+		<string>B498</string>
+		<key>title</key>
+		<string>Daktari</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>THE WONDERFUL WORLD OF DISNEY</string>
+		<key>imageFileNameBase</key>
+		<string>B501</string>
+		<key>number</key>
+		<string>B501</string>
+		<key>title</key>
+		<string>Love Bug</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B503</string>
+		<key>number</key>
+		<string>B503</string>
+		<key>title</key>
+		<string>Dark Shadows</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CARTOON FAVORITES</string>
+		<key>imageFileNameBase</key>
+		<string>B516</string>
+		<key>number</key>
+		<string>B516</string>
+		<key>title</key>
+		<string>Popeye</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>CARTOON FAVORITES</string>
+		<key>imageFileNameBase</key>
+		<string>B544</string>
+		<key>number</key>
+		<string>B544</string>
+		<key>title</key>
+		<string>Snoopy and the Red Baron</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B569</string>
+		<key>number</key>
+		<string>B569</string>
+		<key>title</key>
+		<string>Partridge Family</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B570</string>
+		<key>number</key>
+		<string>B570</string>
+		<key>title</key>
+		<string>Beverly Hillbillies</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Television Shows</string>
+		<key>category</key>
+		<string>SHOWTIME</string>
+		<key>imageFileNameBase</key>
+		<string>B571</string>
+		<key>number</key>
+		<string>B571</string>
+		<key>title</key>
+		<string>Family Affair</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>HISTORY</string>
+		<key>imageFileNameBase</key>
+		<string>B792</string>
+		<key>number</key>
+		<string>B792</string>
+		<key>title</key>
+		<string>World War I</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>HISTORY</string>
+		<key>imageFileNameBase</key>
+		<string>B793</string>
+		<key>number</key>
+		<string>B793</string>
+		<key>title</key>
+		<string>Famous People</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string></string>
+		<key>category</key>
+		<string>HISTORY</string>
+		<key>imageFileNameBase</key>
+		<string>H8</string>
+		<key>number</key>
+		<string>H8</string>
+		<key>title</key>
+		<string>Mr. Lincoln</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Southern Area</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>H74</string>
+		<key>number</key>
+		<string>H74</string>
+		<key>title</key>
+		<string>Great Smoky Mountains National Park</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Tennessee</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>H83</string>
+		<key>number</key>
+		<string>H83</string>
+		<key>title</key>
+		<string>Grand Ole Opry</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A790</string>
+		<key>number</key>
+		<string>A790</string>
+		<key>title</key>
+		<string>Washington, D.C.</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A800</string>
+		<key>number</key>
+		<string>A800</string>
+		<key>title</key>
+		<string>Beautiful Washington, D.C.</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A797</string>
+		<key>number</key>
+		<string>A797</string>
+		<key>title</key>
+		<string>Library of Congress and National Archives</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A795</string>
+		<key>number</key>
+		<string>A795</string>
+		<key>title</key>
+		<string>National Shrine of the Immaculate Conception</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A791</string>
+		<key>number</key>
+		<string>A791</string>
+		<key>title</key>
+		<string>National Gallery of Art</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A794</string>
+		<key>number</key>
+		<string>A794</string>
+		<key>title</key>
+		<string>U.S. Capitol Building</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A798</string>
+		<key>number</key>
+		<string>A798</string>
+		<key>title</key>
+		<string>Restored Ford Theatre and Lincoln Museum</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A792</string>
+		<key>number</key>
+		<string>A792</string>
+		<key>title</key>
+		<string>Smithsonian Institution</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A799</string>
+		<key>number</key>
+		<string>A799</string>
+		<key>title</key>
+		<string>Smithsonian Institution II</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A793</string>
+		<key>number</key>
+		<string>A793</string>
+		<key>title</key>
+		<string>White House</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Washington, D.C.</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A796</string>
+		<key>number</key>
+		<string>A796</string>
+		<key>title</key>
+		<string>Washington Cathedral</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B008</string>
+		<key>number</key>
+		<string>B008</string>
+		<key>title</key>
+		<string>Archeology - Lost Civilizations of Mexico</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B680</string>
+		<key>number</key>
+		<string>B680</string>
+		<key>title</key>
+		<string>Botany - The Plant Kingdom</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B677</string>
+		<key>number</key>
+		<string>B677</string>
+		<key>title</key>
+		<string>Mineralogy - Rocks and Minerals</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B678</string>
+		<key>number</key>
+		<string>B678</string>
+		<key>title</key>
+		<string>Ornithology - Birds of the World</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B676</string>
+		<key>number</key>
+		<string>B676</string>
+		<key>title</key>
+		<string>Paleontology - Prehistoric Life</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B687</string>
+		<key>number</key>
+		<string>B687</string>
+		<key>title</key>
+		<string>Astronomy - Exploring the Universe</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>View-Master Science Series</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B682</string>
+		<key>number</key>
+		<string>B682</string>
+		<key>title</key>
+		<string>Physics - Matter and Energy</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>HISTORY</string>
+		<key>imageFileNameBase</key>
+		<string>B790</string>
+		<key>number</key>
+		<string>B790</string>
+		<key>title</key>
+		<string>Civil War</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Illinois</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A552</string>
+		<key>number</key>
+		<string>A552</string>
+		<key>title</key>
+		<string>Museum of Science and Industry, Chicago</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Midwest Area</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A390</string>
+		<key>number</key>
+		<string>A390</string>
+		<key>title</key>
+		<string>Lincoln Heritage Trail</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Midwest Area</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A449</string>
+		<key>number</key>
+		<string>A449</string>
+		<key>title</key>
+		<string>Ozark Mountains, Arkansas and Missouri</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Texas</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A418</string>
+		<key>number</key>
+		<string>A418</string>
+		<key>title</key>
+		<string>LBJ Country</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>England</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>C282</string>
+		<key>number</key>
+		<string>C282</string>
+		<key>title</key>
+		<string>Madame Tussaud&apos;s Waxworks</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Virginia</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A827</string>
+		<key>number</key>
+		<string>A827</string>
+		<key>title</key>
+		<string>Monticello, Home of Thomas Jefferson</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>SEVEN WONDERS OF THE WORLD</string>
+		<key>imageFileNameBase</key>
+		<string>B901</string>
+		<key>number</key>
+		<string>B901</string>
+		<key>title</key>
+		<string>Seven Wonders of the World</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Kentucky</string>
+		<key>category</key>
+		<string>UNITED STATES PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>A846</string>
+		<key>number</key>
+		<string>A846</string>
+		<key>title</key>
+		<string>Mammoth Cave National Park</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>The Space Age</string>
+		<key>category</key>
+		<string>WORLD OF SCIENCE</string>
+		<key>imageFileNameBase</key>
+		<string>B663</string>
+		<key>number</key>
+		<string>B663</string>
+		<key>title</key>
+		<string>Apollo Moon Landing, July 20th, 1969</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>HISTORY</string>
+		<key>imageFileNameBase</key>
+		<string>B685</string>
+		<key>number</key>
+		<string>B685</string>
+		<key>title</key>
+		<string>History of Flight</string>
+	</dict>
+	<dict>
+		<key>subcategory</key>
+		<string>Germany</string>
+		<key>category</key>
+		<string>EUROPE PICTURE TOURS</string>
+		<key>imageFileNameBase</key>
+		<string>B192</string>
+		<key>number</key>
+		<string>B192</string>
+		<key>title</key>
+		<string>Berlin</string>
+	</dict>
+</array>
+</plist>
