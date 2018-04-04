@@ -39,9 +39,7 @@ class VMRPacketsCollectionDataSource: NSObject, VMRPacketsCollectionDataSourcePr
     // Number of items in the section is the number of packets
     func collectionView(_ collectionView: UICollectionView,
         numberOfItemsInSection section: Int) -> Int {
-         //   print(#function)
-         //   print("Returning \(VMRViewMasterPackets.packetsSortedByNumber!.count)")
-            return VMRViewMasterPackets.packetsSortedByNumber!.count
+            return VMRViewMasterPackets.packetsSortedByDate!.count
     }
     
     // Just one section in the grid
@@ -65,7 +63,7 @@ class VMRPacketsCollectionDataSource: NSObject, VMRPacketsCollectionDataSourcePr
         //        println("packetForIndexPath")
         //        let firstLetter = VMRViewMasterPackets.packetTitleIndexArray![indexPath.section]
         //        let packetsWithSameFirstLetter = VMRViewMasterPackets.packetsWithInitialLetter(firstLetter)
-        return VMRViewMasterPackets.packetsSortedByNumber![indexPath.row]
+        return VMRViewMasterPackets.packetsSortedByDate![indexPath.row]
     }
     
     // (Don't really use this)
@@ -84,29 +82,10 @@ class VMRPacketsCollectionDataSource: NSObject, VMRPacketsCollectionDataSourcePr
         return cell
     }
     
-//    func sectionIndexTitlesForTableView(tableView: UITableView) -> [AnyObject]! {
-//        // The numbers table is juts one big section
-//        return VMRViewMasterPackets.packetTitleIndexArray
-//    }
-  
-//    func tableView(tableView: UITableView, sectionForSectionIndexTitle title: String, atIndex index: Int) -> Int {
-//        // Supposedly, you send me a section title (letter) and its index number, and I send you back
-//        //    the index number (what??!)
-//        return index
-//    }
-    
     func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // One big section: Return how many packets there are total
-        return VMRViewMasterPackets.packetsSortedByNumber!.count
+        return VMRViewMasterPackets.packetsSortedByDate!.count
      }
-    
-//    func tableView(tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
-//        // This table has multiple sections, per each initial letter of the packet titles
-//        // Return the letter that corressponds to the requested section
-//        // [From Elements project files comments:]
-//        //    "This is actually a delegate method, but we forward the request to the datasource in the view controller"
-//        return VMRViewMasterPackets.packetTitleIndexArray![section]
-//    }
   
     
 }

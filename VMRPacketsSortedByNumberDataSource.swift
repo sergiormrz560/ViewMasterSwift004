@@ -13,24 +13,24 @@ import UIKit
 // Note: Thie *automatically* picks up UITableDataSource protocol through
 //    VMRPacketsTableDataSourceProtocol
 
-class VMRPacketsSortedByNumberDataSource: NSObject, VMRPacketsTableDataSourceProtocol {
+class VMRPacketsSortedByDateDataSource: NSObject, VMRPacketsTableDataSourceProtocol {
     
     //// Protocol methods to comply with "VMRPacketsDataSource" protocol
     
     // Getters for properties for navagation and tab bars
     var name: String {
         get {
-            return "Number"
+            return "Date"
         }
     }
     var navigationBarName: String {
         get {
-            return "Packets Sorted by Number"
+            return "Packets Sorted by Date"
         }
     }
     var tabBarImage: UIImage {
         get {
-            return UIImage(named: "TabNumber.png")!
+            return UIImage(named: "TabDate.png")!
         }
     }
     
@@ -46,7 +46,7 @@ class VMRPacketsSortedByNumberDataSource: NSObject, VMRPacketsTableDataSourcePro
 //        println("packetForIndexPath")
 //        let firstLetter = VMRViewMasterPackets.packetTitleIndexArray![indexPath.section]
 //        let packetsWithSameFirstLetter = VMRViewMasterPackets.packetsWithInitialLetter(firstLetter)
-        return VMRViewMasterPackets.packetsSortedByNumber![indexPath.row]
+        return VMRViewMasterPackets.packetsSortedByDate![indexPath.row]
     }
     
     // (Don't really use this)
@@ -84,7 +84,7 @@ class VMRPacketsSortedByNumberDataSource: NSObject, VMRPacketsTableDataSourcePro
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // One big section: Return how many packets there are total
-        return VMRViewMasterPackets.packetsSortedByNumber!.count
+        return VMRViewMasterPackets.packetsSortedByDate!.count
      }
     
 //    func tableView(tableView: UITableView, titleForHeaderInSection section: Int) -> String? {

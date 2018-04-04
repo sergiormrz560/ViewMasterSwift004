@@ -28,9 +28,8 @@ class VMRPacketTileView: UIView {
 // AND.. shows how to update to current Swift syntax!
     override func draw(_ rect: CGRect) {
         let tileImage = packet.imageForPacketTileView()
-//        let tileImageRectangle = CGRectMake(0, 0, tileImage!.size.width, tileImage!.size.height)
         let tileImageRectangle = CGRect(x:0, y:0, width:tileImage!.size.width, height:tileImage!.size.height)
-
+        
         tileImage?.draw(in: tileImageRectangle)
     }
 }

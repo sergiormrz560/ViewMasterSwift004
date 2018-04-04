@@ -66,7 +66,7 @@ class VMRPacketsTableViewController : UITableViewController {
               let selectedIndexPath = tableView.indexPathForSelectedRow
             // Find the corresponding view controller
             let aPacket = dataSource!.packetForindexPath(indexPath: selectedIndexPath! as NSIndexPath)
-            var viewController: VMRPacketViewController? = segue.destination as? VMRPacketViewController
+            let viewController: VMRPacketViewController? = segue.destination as? VMRPacketViewController
             
             if viewController != nil {
                 // Hide the bottom tab bar when we push this new view controller

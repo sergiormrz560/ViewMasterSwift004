@@ -19,7 +19,7 @@ class VMRPacketTableViewCell: UITableViewCell {
             var labelView = self.contentView.viewWithTag(2) as? UILabel
             labelView!.text = self.packet.title
             labelView = self.contentView.viewWithTag(3) as? UILabel
-            labelView!.text = self.packet.number
+            labelView!.text = self.packet.date
             
             // Tell the system these need refreshing
             packetTileView!.setNeedsDisplay()

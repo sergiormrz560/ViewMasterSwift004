@@ -18,21 +18,21 @@ import UIKit
 //https://developer.apple.com/documentation/swift/customstringconvertible
 class VMRPacket: CustomStringConvertible {
     var title: String
-    var number: String
+    var date: String
     var imageFileNameBase: String
     var frontImage: UIImage?
     var backImage: UIImage?
-    var category: String
+    var location: String
     var subcategory: String?
     
 // Various initializers
     
-    init(title: String, number: String, imageFileNameBase: String,
-        category: String, subcategory: String) {
+    init(title: String, date: String, imageFileNameBase: String,
+        location: String, subcategory: String) {
             self.title = title
-            self.number = number
+            self.date = date
             self.imageFileNameBase = imageFileNameBase
-            self.category = category
+            self.location = location
             self.subcategory = subcategory
             
             self.backImage = nil
@@ -41,9 +41,9 @@ class VMRPacket: CustomStringConvertible {
     
     init() {
             self.title = ""
-            self.number = ""
+            self.date = ""
             self.imageFileNameBase = ""
-            self.category = ""
+            self.location = ""
             self.subcategory = ""
             
             self.backImage = nil
@@ -52,9 +52,9 @@ class VMRPacket: CustomStringConvertible {
     
     init(aDictionary: NSDictionary) {
         self.title = aDictionary.value(forKey: "title") as! String
-        self.number = aDictionary.value(forKey: "number") as! String
+        self.date = aDictionary.value(forKey: "date") as! String
         self.imageFileNameBase = aDictionary.value(forKey: "imageFileNameBase") as! String
-        self.category = aDictionary.value(forKey: "category") as! String
+        self.location = aDictionary.value(forKey: "location") as! String
         if let aSubcategory = aDictionary.value(forKey: "subcategory") as? String {
             self.subcategory = aSubcategory
         }
@@ -67,67 +67,28 @@ class VMRPacket: CustomStringConvertible {
     
     // [Printable] Return a description string of this object
     var description: String {
-        return "Pkt \(number), \(title): Cat: \(category), Subcat: \(String(describing: subcategory)) ImBase: \(imageFileNameBase)"
+        return "Date \(date), \(title): Loc: \(location), Subcat: \(String(describing: subcategory)) ImBase: \(imageFileNameBase)"
     }
 
     // main front image
     func imageForPacketFrontView() -> UIImage? {
-        let packetFrontImageName = self.imageFileNameBase + "Front_256.png"
+        let packetFrontImageName = self.imageFileNameBase + "Front525.png"
         let packetFrontImage = UIImage(named: packetFrontImageName)
         return packetFrontImage
     }
 
     // main back image
     func imageForPacketBackView() -> UIImage? {
-        let packetBackImageName = self.imageFileNameBase + "Back_256.png"
+        let packetBackImageName = self.imageFileNameBase + "Back525.png"
         let packetBackImage = UIImage(named: packetBackImageName)
         return packetBackImage
     }
     
     // tile front image
     func imageForPacketTileView() -> UIImage? {
-        let packetTileImageName = self.imageFileNameBase + "Front_37.png"
+        let packetTileImageName = self.imageFileNameBase + "Front37.png"
  //       println("Is there an image named \(packetTileImageName)?")
         let packetTileImage = UIImage(named: packetTileImageName)
         return packetTileImage
     }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

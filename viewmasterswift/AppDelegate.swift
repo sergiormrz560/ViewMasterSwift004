@@ -36,7 +36,7 @@ class AppDelegate: NSObject, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         // print("Hello?")
-        let packets = VMRViewMasterPackets.sharedViewMasterPackets()
+        _ = VMRViewMasterPackets.sharedViewMasterPackets()
    /**/
 /*        if packets != nil {
             print("Success in AppDelegate --- found the plist")
@@ -77,19 +77,19 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         tempViewController.dataSource = VMRPacketsSortedByTitleDataSource()
         tempViewControllers.append(tempNavController)
         
-        // Sorted by number...
+        // Sorted by date...
         tempNavController = storyBoard.instantiateViewController(withIdentifier: "navForTableView") as! UINavigationController
         tempViewController = tempNavController.topViewController! as! VMRPacketsTableViewController
-        tempViewController.dataSource = VMRPacketsSortedByNumberDataSource()
+        tempViewController.dataSource = VMRPacketsSortedByDateDataSource()
         tempViewControllers.append(tempNavController)
         
-        // Sorted by category...
+        // Sorted by location...
         tempNavController = storyBoard.instantiateViewController(withIdentifier: "navForTableView") as! UINavigationController
         tempViewController = tempNavController.topViewController! as! VMRPacketsTableViewController
-        tempViewController.dataSource = VMRPacketsSortedByCategoryDataSource()
+        tempViewController.dataSource = VMRPacketsSortedByLocationDataSource()
         tempViewControllers.append(tempNavController)
 
-        // Sorted by number, as a grid...
+        // Sorted by date, as a grid...
         tempNavController = storyBoard.instantiateViewController(withIdentifier: "navForCollectionView") as! UINavigationController
         let tempGridViewController = tempNavController.topViewController! as! VMRPacketsCollectionViewController
         tempGridViewController.dataSource = VMRPacketsCollectionDataSource()

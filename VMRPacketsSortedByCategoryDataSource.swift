@@ -1,5 +1,5 @@
 //
-//  VMRPacketsSortedByCategoryDataSource.swift
+//  VMRPacketsSortedByLocationDataSource.swift
 //  ViewMasterSwift
 //
 //  Created by Robert England on 3/11/18.
@@ -13,24 +13,24 @@ import UIKit
 // Note: Thie *automatically* picks up UITableDataSource protocol through
 //    VMRPacketsTableDataSourceProtocol
 
-class VMRPacketsSortedByCategoryDataSource: NSObject, VMRPacketsTableDataSourceProtocol {
+class VMRPacketsSortedByLocationDataSource: NSObject, VMRPacketsTableDataSourceProtocol {
     
     //// Protocol methods to comply with "VMRPacketsDataSource" protocol
     
     // Getters for properties for navagation and tab bars
     var name: String {
         get {
-            return "Category"
+            return "Location"
         }
     }
     var navigationBarName: String {
         get {
-            return "Packets Sorted by Category"
+            return "Packets Sorted by Location"
         }
     }
     var tabBarImage: UIImage {
         get {
-            return UIImage(named: "TabCategory.png")!
+            return UIImage(named: "TabLocation.png")!
         }
     }
     
@@ -47,12 +47,12 @@ class VMRPacketsSortedByCategoryDataSource: NSObject, VMRPacketsTableDataSourceP
         // The section number is the index into the Category array,
         //    the row number is the index into that Category's array of packets.
         
-        // Get the Category
-        let packetCategory = VMRViewMasterPackets.packetCategories![indexPath.section]
+        // Get the Location
+        let packetLocation = VMRViewMasterPackets.packetLocation![indexPath.section]
         
         // Get the packet from that category's array
-        let packetsInThisCategory = VMRViewMasterPackets.packetsInCategory(category: packetCategory)
-        return packetsInThisCategory![indexPath.row]
+        let packetsInThisLocation = VMRViewMasterPackets.packetsInLocation(location: packetLocation)
+        return packetsInThisLocation![indexPath.row]
     }
     
     // (Don't really use this)
@@ -72,16 +72,9 @@ class VMRPacketsSortedByCategoryDataSource: NSObject, VMRPacketsTableDataSourceP
         return cell
     }
     
-/* obsolete swift func name and params...
-    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
-  //      println("numberOfSectionsInTableView is \(VMRViewMasterPackets.packetTitleIndexArray!.count)")
-        // The number of different sections in thei table depends on the number of different first letters
-        return VMRViewMasterPackets.packetCategories!.count
-    }
-*/
     func numberOfSections(in tableView: UITableView) -> Int {
         // The number of different sections in thei table depends on the number of different first letters
-        return VMRViewMasterPackets.packetCategories!.count
+        return VMRViewMasterPackets.packetLocation!.count
     }
   
     func tableView(_ tableView: UITableView, sectionForSectionIndexTitle title: String, at index: Int) -> Int {
@@ -92,18 +85,18 @@ class VMRPacketsSortedByCategoryDataSource: NSObject, VMRPacketsTableDataSourceP
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
  //       print("numberOfRowsInSection \(section)")
-        // This table has one section per category.
+        // This table has one section per location.
         // Return the number of packets in the current category.
 
-        // Get the category name...
-        let categoryKey = VMRViewMasterPackets.packetCategories![section]
+        // Get the location name...
+        let locationKey = VMRViewMasterPackets.packetLocation![section]
 
-        // ... and then get the number of packets in that category
-        let packetsInThisCategory = VMRViewMasterPackets.packetsInCategory(category: categoryKey)
+        // ... and then get the number of packets in that location
+        let packetsInThisLocation = VMRViewMasterPackets.packetsInLocation(location: locationKey)
         
-        // Return how many there are in this category
-        if packetsInThisCategory != nil {
-            return packetsInThisCategory!.count
+        // Return how many there are in this location
+        if packetsInThisLocation != nil {
+            return packetsInThisLocation!.count
         }
         else {
  //           println("whoops!")
@@ -112,14 +105,14 @@ class VMRPacketsSortedByCategoryDataSource: NSObject, VMRPacketsTableDataSourceP
     }
     
     func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
-        // Return the category name that corresponds to the given section, but only if there
-        //    are packets in this category
+        // Return the location name that corresponds to the given section, but only if there
+        //    are packets in this location
         // [Technically, this is a delegate method for the table, but we get it from the data source]
 //        if tableView.numberOfRowsInSection(section) != 0 {
-//            return VMRViewMasterPackets.packetCategories![section]
+//            return VMRViewMasterPackets.packetLocation![section]
 //        }
 //        return nil
-        return VMRViewMasterPackets.packetCategories![section]
+        return VMRViewMasterPackets.packetLocation![section]
     }
   
     

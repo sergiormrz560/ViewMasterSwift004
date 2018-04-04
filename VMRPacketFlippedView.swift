@@ -35,51 +35,8 @@ class VMRPacketFlippedView: VMRPacketView {
     override func draw(_ rect: CGRect) {
         guard let packet = self.packet else {return}
         let packetBackImage = packet.imageForPacketBackView()
-        let packetRectangle = CGRect(x: 0, y: 0, width: (packetBackImage?.size.width)!, height: (packetBackImage?.size.height)!)
+    //    let packetRectangle = CGRect(x: 0, y: 0, width: (packetBackImage?.size.width)!, height: (packetBackImage?.size.height)!)
+        let packetRectangle = CGRect(x: 0, y: 0, width: 512, height: 512)
         packetBackImage?.draw(in: packetRectangle)
     }
 }
-
-/*
-#import "VMRPacketFlippedView.h"
-#import "VMRPacketView.h"
-//#import "VMRPacket.h"
-#import "ViewMasterSwift-Swift.h"
-
-@interface VMRPacketFlippedView ()
-@end
-
-@implementation VMRPacketFlippedView
-
-- (id)initWithFrame:(CGRect)frame
-{
-    if (self = [super initWithFrame:frame]) {
-        [self setAutoresizesSubviews:YES];
-    
-        // Set background color of the view to clear
-        self.backgroundColor = [UIColor clearColor];
-    }
-    return self;
-}
-
-
-//// RE:: lifted setupUserInterface from here
-
-
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
-- (void)drawRect:(CGRect)rect {
-    // Drawing code
-}
-
-
-// Get the packet back image and draw it.
-- (void)drawRect:(CGRect)rect
-{
-    UIImage *packetBackImage = [self.packet imageForPacketBackView];
-    CGRect packetRectangle = CGRectMake(0, 0, [packetBackImage size].width, [packetBackImage size].height);
-    [packetBackImage drawInRect:packetRectangle];
-}
-
-@end
-*/
