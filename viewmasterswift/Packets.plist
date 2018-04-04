@@ -3,1198 +3,764 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>subcategory</key>
-		<string>Florida</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A991</string>
-		<key>number</key>
-		<string>A991</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1200</string>
 		<key>title</key>
-		<string>Weeki Wachee</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Florida</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Maskette</string>
 		<key>imageFileNameBase</key>
-		<string>A984</string>
-		<key>number</key>
-		<string>A984</string>
-		<key>title</key>
-		<string>Golden Triangle</string>
+		<string>A1</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>New York</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A654</string>
-		<key>number</key>
-		<string>A654</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 200</string>
 		<key>title</key>
-		<string>New York City Sightseeing Tour</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>New York</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Maskette</string>
 		<key>imageFileNameBase</key>
-		<string>A649</string>
-		<key>number</key>
-		<string>A649</string>
-		<key>title</key>
-		<string>New York City</string>
+		<string>A2</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>South Dakota</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A487</string>
-		<key>number</key>
-		<string>A487</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 300</string>
 		<key>title</key>
-		<string>Mount Rushmore</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Colorado</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Pendant representing the Maize God</string>
 		<key>imageFileNameBase</key>
-		<string>A321</string>
-		<key>number</key>
-		<string>A321</string>
-		<key>title</key>
-		<string>Pikes Peak</string>
+		<string>A4</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CANADA PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A071</string>
-		<key>number</key>
-		<string>A071</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 300</string>
 		<key>title</key>
-		<string>Expo 67 General Tour</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CANADA PICTURE TOURS</string>
+		<string>Sculpture in the form of a human head</string>
 		<key>imageFileNameBase</key>
-		<string>A074</string>
-		<key>number</key>
-		<string>A074</string>
-		<key>title</key>
-		<string>Expo 67 Night Scenes</string>
+		<string>A5</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>California</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A182</string>
-		<key>number</key>
-		<string>A182</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1400</string>
 		<key>title</key>
-		<string>Redwood Highway</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>New York</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Mask part</string>
 		<key>imageFileNameBase</key>
-		<string>A655</string>
-		<key>number</key>
-		<string>A655</string>
-		<key>title</key>
-		<string>Niagara Falls</string>
+		<string>A6</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Maryland</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A783</string>
-		<key>number</key>
-		<string>A783</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1325</string>
 		<key>title</key>
-		<string>Annapolis U.S. Naval Academy</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Alabama</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Sculpture representing Tlalchitonatiuh</string>
 		<key>imageFileNameBase</key>
-		<string>A927</string>
-		<key>number</key>
-		<string>A927</string>
-		<key>title</key>
-		<string>Battleship U.S.S. Alabama</string>
+		<string>A7</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Florida</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A988</string>
-		<key>number</key>
-		<string>A988</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1325</string>
 		<key>title</key>
-		<string>Busch Gardens</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Sweden</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
+		<string>Maskette representing the rain god Tláloc</string>
 		<key>imageFileNameBase</key>
-		<string>B151</string>
-		<key>number</key>
-		<string>B151</string>
-		<key>title</key>
-		<string>Sweden</string>
+		<string>A8</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Norway</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B153</string>
-		<key>number</key>
-		<string>B153</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>600 BC</string>
 		<key>title</key>
-		<string>Norway</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>England</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
+		<string>Axe head</string>
 		<key>imageFileNameBase</key>
-		<string>B156</string>
-		<key>number</key>
-		<string>B156</string>
-		<key>title</key>
-		<string>England</string>
+		<string>A9</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Spain</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B171</string>
-		<key>number</key>
-		<string>B171</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1325</string>
 		<key>title</key>
-		<string>Spain</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Vatican City</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
+		<string>Bowl used to hold hearts of sacrificial victims</string>
 		<key>imageFileNameBase</key>
-		<string>B178</string>
-		<key>number</key>
-		<string>B178</string>
-		<key>title</key>
-		<string>Vatican City</string>
+		<string>A10</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Switzerland</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B185</string>
-		<key>number</key>
-		<string>B185</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 500</string>
 		<key>title</key>
-		<string>Switzerland</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Germany</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
+		<string>Funerary urn</string>
 		<key>imageFileNameBase</key>
-		<string>B193</string>
-		<key>number</key>
-		<string>B193</string>
-		<key>title</key>
-		<string>Germany</string>
+		<string>A11</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Russia</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B213</string>
-		<key>number</key>
-		<string>B213</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1000</string>
 		<key>title</key>
-		<string>Russia</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Israel</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<string>Puebla-style ring depicting Xipe Totec</string>
 		<key>imageFileNameBase</key>
-		<string>B224</string>
-		<key>number</key>
-		<string>B224</string>
-		<key>title</key>
-		<string>Modern Israel</string>
+		<string>A12</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>The Holy Land</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B226</string>
-		<key>number</key>
-		<string>B226</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>300 BC</string>
 		<key>title</key>
-		<string>Holy Land</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Japan</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<string>House model</string>
 		<key>imageFileNameBase</key>
-		<string>B262</string>
-		<key>number</key>
-		<string>B262</string>
-		<key>title</key>
-		<string>Japan</string>
+		<string>A13</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Japan</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B269</string>
-		<key>number</key>
-		<string>B269</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Expo &apos;70 General Tour 2</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Fairy Tales</string>
-		<key>category</key>
-		<string>CLASSIC TALES</string>
+		<string>Whistle figure of a woman</string>
 		<key>imageFileNameBase</key>
-		<string>B300</string>
-		<key>number</key>
-		<string>B300</string>
-		<key>title</key>
-		<string>Snow White</string>
+		<string>A14</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Fairy Tales</string>
-		<key>category</key>
-		<string>CLASSIC TALES</string>
-		<key>imageFileNameBase</key>
-		<string>B305</string>
-		<key>number</key>
-		<string>B305</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 600</string>
 		<key>title</key>
-		<string>Andersen&apos;s Fairy Tales</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Fairy Tales</string>
-		<key>category</key>
-		<string>CLASSIC TALES</string>
+		<string>Figure of a priest</string>
 		<key>imageFileNameBase</key>
-		<string>B312</string>
-		<key>number</key>
-		<string>B312</string>
-		<key>title</key>
-		<string>Grimm&apos;s Fairy Tales</string>
+		<string>A15</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>THE WONDERFUL WORLD OF DISNEY</string>
-		<key>imageFileNameBase</key>
-		<string>B363</string>
-		<key>number</key>
-		<string>B363</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 500</string>
 		<key>title</key>
-		<string>Jungle Book</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Movies</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
+		<string>Trumpet</string>
 		<key>imageFileNameBase</key>
-		<string>B390</string>
-		<key>number</key>
-		<string>B390</string>
-		<key>title</key>
-		<string>Fiddler on the Roof</string>
+		<string>A16</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Movies</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B392</string>
-		<key>number</key>
-		<string>B392</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 900</string>
 		<key>title</key>
-		<string>King Kong</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CARTOON FAVORITES</string>
+		<string>Human figure</string>
 		<key>imageFileNameBase</key>
-		<string>B536</string>
-		<key>number</key>
-		<string>B536</string>
-		<key>title</key>
-		<string>Peanuts</string>
+		<string>A17</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CARTOON FAVORITES</string>
-		<key>imageFileNameBase</key>
-		<string>B538</string>
-		<key>number</key>
-		<string>B538</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Beep Beep, the Road Runner</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CARTOON FAVORITES</string>
+		<string>Figure of a woman</string>
 		<key>imageFileNameBase</key>
-		<string>B545</string>
-		<key>number</key>
-		<string>B545</string>
-		<key>title</key>
-		<string>Casper&apos;s Ghostland</string>
+		<string>A18</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B573</string>
-		<key>number</key>
-		<string>B573</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1200</string>
 		<key>title</key>
-		<string>Nanny and the Professor</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>HISTORY</string>
+		<string>Whistling vessel representing Xiuhtecuhtli</string>
 		<key>imageFileNameBase</key>
-		<string>B725</string>
-		<key>number</key>
-		<string>B725</string>
-		<key>title</key>
-		<string>American Indian</string>
+		<string>A19</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Spain</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>C251</string>
-		<key>number</key>
-		<string>C251</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Barcelona</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>THE WONDERFUL WORLD OF DISNEY</string>
+		<string>Figure of the ruler Halach Huinik</string>
 		<key>imageFileNameBase</key>
-		<string>K69</string>
-		<key>number</key>
-		<string>K69</string>
-		<key>title</key>
-		<string>Snow White and the Seven Dwarfs</string>
+		<string>A20</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>South Dakota</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A486</string>
-		<key>number</key>
-		<string>A486</string>
+		<key>location</key>
+		<string>Guatemala</string>
+		<key>date</key>
+		<string>AD 350</string>
 		<key>title</key>
-		<string>Black Hills</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>New York</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Tripod vessel and cover</string>
 		<key>imageFileNameBase</key>
-		<string>A664</string>
-		<key>number</key>
-		<string>A664</string>
-		<key>title</key>
-		<string>Lake George - Adirondack Region</string>
+		<string>A21</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Southern Area</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A889</string>
-		<key>number</key>
-		<string>A889</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>400 BC</string>
 		<key>title</key>
-		<string>Great Smoky Mountains National Park</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Florida</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
+		<string>Female figure</string>
 		<key>imageFileNameBase</key>
-		<string>A962</string>
-		<key>number</key>
-		<string>A962</string>
-		<key>title</key>
-		<string>Silver Springs</string>
+		<string>A22</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Five Little Countries of Europe</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B149</string>
-		<key>number</key>
-		<string>B149</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Five Little Countries of Europe</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>England</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
+		<string>Figure</string>
 		<key>imageFileNameBase</key>
-		<string>B157</string>
-		<key>number</key>
-		<string>B157</string>
-		<key>title</key>
-		<string>London</string>
+		<string>A23</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Italy</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B180</string>
-		<key>number</key>
-		<string>B180</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>800 BC</string>
 		<key>title</key>
-		<string>Italy</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>Austria</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
+		<string>Bowl</string>
 		<key>imageFileNameBase</key>
-		<string>B198</string>
-		<key>number</key>
-		<string>B198</string>
-		<key>title</key>
-		<string>Austria</string>
+		<string>A24</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Pakistan</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B233</string>
-		<key>number</key>
-		<string>B233</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1350</string>
 		<key>title</key>
-		<string>Pakistan</string>
-	</dict>
-	<dict>
-		<key>subcategory</key>
-		<string>India</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
+		<string>Cholula-style female figure representing the corn goddess</string>
 		<key>imageFileNameBase</key>
-		<string>B235</string>
-		<key>number</key>
-		<string>B235</string>
-		<key>title</key>
-		<string>India</string>
+		<string>A25</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Japan</string>
-		<key>category</key>
-		<string>ASIA AND MIDDLE EAST PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B270</string>
-		<key>number</key>
-		<string>B270</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Expo &apos;70 Night Scenes</string>
+		<string>Figure of a priest</string>
+		<key>imageFileNameBase</key>
+		<string>A26</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>THE WONDERFUL WORLD OF DISNEY</string>
-		<key>imageFileNameBase</key>
-		<string>B362</string>
-		<key>number</key>
-		<string>B362</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 200</string>
 		<key>title</key>
-		<string>Winnie the Pooh and the Honey Tree</string>
+		<string>Female-figure rattle</string>
+		<key>imageFileNameBase</key>
+		<string>A27</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Adventure Stories</string>
-		<key>category</key>
-		<string>CLASSIC TALES</string>
-		<key>imageFileNameBase</key>
-		<string>B370</string>
-		<key>number</key>
-		<string>B370</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>300 BC</string>
 		<key>title</key>
-		<string>20,000 Leagues Under the Sea</string>
+		<string>Figure of an emaciated dog</string>
+		<key>imageFileNameBase</key>
+		<string>A28</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Christmas Stories</string>
-		<key>category</key>
-		<string>CLASSIC TALES</string>
-		<key>imageFileNameBase</key>
-		<string>B380</string>
-		<key>number</key>
-		<string>B380</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Christmas Carol</string>
+		<string>Flute</string>
+		<key>imageFileNameBase</key>
+		<string>A29</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>THE WONDERFUL WORLD OF DISNEY</string>
-		<key>imageFileNameBase</key>
-		<string>B400</string>
-		<key>number</key>
-		<string>B400</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>400 BC</string>
 		<key>title</key>
-		<string>Bambi</string>
+		<string>Female figure</string>
+		<key>imageFileNameBase</key>
+		<string>A30</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Adventure Stories</string>
-		<key>category</key>
-		<string>CLASSIC TALES</string>
-		<key>imageFileNameBase</key>
-		<string>B425</string>
-		<key>number</key>
-		<string>B425</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 300</string>
 		<key>title</key>
-		<string>Heidi</string>
+		<string>Trumpet</string>
+		<key>imageFileNameBase</key>
+		<string>A31</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B478</string>
-		<key>number</key>
-		<string>B478</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 900</string>
 		<key>title</key>
-		<string>Mod Squad</string>
+		<string>Cempoala-style trumpet</string>
+		<key>imageFileNameBase</key>
+		<string>A32</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B485</string>
-		<key>number</key>
-		<string>B485</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>300 BC</string>
 		<key>title</key>
-		<string>Flipper</string>
+		<string>Vessel in the form of a scorpion</string>
+		<key>imageFileNameBase</key>
+		<string>A33</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B497</string>
-		<key>number</key>
-		<string>B497</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 250</string>
 		<key>title</key>
-		<string>Laugh-In</string>
+		<string>Figure of a priest wearing a Tláloc mask</string>
+		<key>imageFileNameBase</key>
+		<string>A34</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B498</string>
-		<key>number</key>
-		<string>B498</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>150 BC</string>
 		<key>title</key>
-		<string>Daktari</string>
+		<string>Female figure</string>
+		<key>imageFileNameBase</key>
+		<string>A35</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>THE WONDERFUL WORLD OF DISNEY</string>
-		<key>imageFileNameBase</key>
-		<string>B501</string>
-		<key>number</key>
-		<string>B501</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1300</string>
 		<key>title</key>
-		<string>Love Bug</string>
+		<string>Pipe with jaguar-head rattle</string>
+		<key>imageFileNameBase</key>
+		<string>A36</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B503</string>
-		<key>number</key>
-		<string>B503</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>150 BC</string>
 		<key>title</key>
-		<string>Dark Shadows</string>
+		<string>Figure of a mother and child</string>
+		<key>imageFileNameBase</key>
+		<string>A37</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CARTOON FAVORITES</string>
-		<key>imageFileNameBase</key>
-		<string>B516</string>
-		<key>number</key>
-		<string>B516</string>
+		<key>location</key>
+		<string>Mexico</string>
+		<key>date</key>
+		<string>AD 1300</string>
 		<key>title</key>
-		<string>Popeye</string>
+		<string>Ritual vessel with spout</string>
+		<key>imageFileNameBase</key>
+		<string>A38</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>CARTOON FAVORITES</string>
-		<key>imageFileNameBase</key>
-		<string>B544</string>
-		<key>number</key>
-		<string>B544</string>
+		<key>location</key>
+		<string>Guatemala</string>
+		<key>date</key>
+		<string>AD 500</string>
 		<key>title</key>
-		<string>Snoopy and the Red Baron</string>
+		<string>Hacha</string>
+		<key>imageFileNameBase</key>
+		<string>A39</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B569</string>
-		<key>number</key>
-		<string>B569</string>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>AD 1425</string>
 		<key>title</key>
-		<string>Partridge Family</string>
+		<string>Vessel</string>
+		<key>imageFileNameBase</key>
+		<string>B40</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B570</string>
-		<key>number</key>
-		<string>B570</string>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>AD 500</string>
 		<key>title</key>
-		<string>Beverly Hillbillies</string>
+		<string>Seat</string>
+		<key>imageFileNameBase</key>
+		<string>B41</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Television Shows</string>
-		<key>category</key>
-		<string>SHOWTIME</string>
-		<key>imageFileNameBase</key>
-		<string>B571</string>
-		<key>number</key>
-		<string>B571</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
 		<key>title</key>
-		<string>Family Affair</string>
+		<string>Qero</string>
+		<key>imageFileNameBase</key>
+		<string>B42</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>HISTORY</string>
-		<key>imageFileNameBase</key>
-		<string>B792</string>
-		<key>number</key>
-		<string>B792</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1475</string>
 		<key>title</key>
-		<string>World War I</string>
+		<string>Qero with animal figurehead</string>
+		<key>imageFileNameBase</key>
+		<string>B43</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>HISTORY</string>
-		<key>imageFileNameBase</key>
-		<string>B793</string>
-		<key>number</key>
-		<string>B793</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1700</string>
 		<key>title</key>
-		<string>Famous People</string>
+		<string>Qero in the form of a jaguar’s head</string>
+		<key>imageFileNameBase</key>
+		<string>B44</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string></string>
-		<key>category</key>
-		<string>HISTORY</string>
-		<key>imageFileNameBase</key>
-		<string>H8</string>
-		<key>number</key>
-		<string>H8</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
 		<key>title</key>
-		<string>Mr. Lincoln</string>
+		<string>Panpipes</string>
+		<key>imageFileNameBase</key>
+		<string>B45</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Southern Area</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>H74</string>
-		<key>number</key>
-		<string>H74</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1475</string>
 		<key>title</key>
-		<string>Great Smoky Mountains National Park</string>
+		<string>Qero</string>
+		<key>imageFileNameBase</key>
+		<string>B46</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Tennessee</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>H83</string>
-		<key>number</key>
-		<string>H83</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1300</string>
 		<key>title</key>
-		<string>Grand Ole Opry</string>
+		<string>Qero with bird figurehead</string>
+		<key>imageFileNameBase</key>
+		<string>B47</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A790</string>
-		<key>number</key>
-		<string>A790</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1500</string>
 		<key>title</key>
-		<string>Washington, D.C.</string>
+		<string>Ceremonial vessel</string>
+		<key>imageFileNameBase</key>
+		<string>B48</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A800</string>
-		<key>number</key>
-		<string>A800</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1700</string>
 		<key>title</key>
-		<string>Beautiful Washington, D.C.</string>
+		<string>Ceremonial vessel</string>
+		<key>imageFileNameBase</key>
+		<string>B49</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A797</string>
-		<key>number</key>
-		<string>A797</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
 		<key>title</key>
-		<string>Library of Congress and National Archives</string>
+		<string>Qero</string>
+		<key>imageFileNameBase</key>
+		<string>B50</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A795</string>
-		<key>number</key>
-		<string>A795</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 750</string>
 		<key>title</key>
-		<string>National Shrine of the Immaculate Conception</string>
+		<string>Ear ornament</string>
+		<key>imageFileNameBase</key>
+		<string>B51</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A791</string>
-		<key>number</key>
-		<string>A791</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
 		<key>title</key>
-		<string>National Gallery of Art</string>
+		<string>Human figure</string>
+		<key>imageFileNameBase</key>
+		<string>B52</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A794</string>
-		<key>number</key>
-		<string>A794</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
 		<key>title</key>
-		<string>U.S. Capitol Building</string>
+		<string>Trumpet</string>
+		<key>imageFileNameBase</key>
+		<string>B53</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A798</string>
-		<key>number</key>
-		<string>A798</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
 		<key>title</key>
-		<string>Restored Ford Theatre and Lincoln Museum</string>
+		<string>Qero with design of nobles under a rainbow</string>
+		<key>imageFileNameBase</key>
+		<string>B54</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A792</string>
-		<key>number</key>
-		<string>A792</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Smithsonian Institution</string>
+		<string>Stirrup-spout bottle</string>
+		<key>imageFileNameBase</key>
+		<string>B55</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A799</string>
-		<key>number</key>
-		<string>A799</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1550</string>
 		<key>title</key>
-		<string>Smithsonian Institution II</string>
+		<string>Qero</string>
+		<key>imageFileNameBase</key>
+		<string>B56</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A793</string>
-		<key>number</key>
-		<string>A793</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 100</string>
 		<key>title</key>
-		<string>White House</string>
+		<string>Ear ornament with sun image</string>
+		<key>imageFileNameBase</key>
+		<string>B57</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Washington, D.C.</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A796</string>
-		<key>number</key>
-		<string>A796</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
 		<key>title</key>
-		<string>Washington Cathedral</string>
+		<string>Funerary mask</string>
+		<key>imageFileNameBase</key>
+		<string>B58</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B008</string>
-		<key>number</key>
-		<string>B008</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
 		<key>title</key>
-		<string>Archeology - Lost Civilizations of Mexico</string>
+		<string>Vessel in human form</string>
+		<key>imageFileNameBase</key>
+		<string>B59</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B680</string>
-		<key>number</key>
-		<string>B680</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Botany - The Plant Kingdom</string>
+		<string>Whistle in the form of a tillandsia plant</string>
+		<key>imageFileNameBase</key>
+		<string>B60</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B677</string>
-		<key>number</key>
-		<string>B677</string>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 600</string>
 		<key>title</key>
-		<string>Mineralogy - Rocks and Minerals</string>
+		<string>Pedestal-based incense burner depicting a jaguar</string>
+		<key>imageFileNameBase</key>
+		<string>B61</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B678</string>
-		<key>number</key>
-		<string>B678</string>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 1000</string>
 		<key>title</key>
-		<string>Ornithology - Birds of the World</string>
+		<string>Jar depicting a llama or an alpaca</string>
+		<key>imageFileNameBase</key>
+		<string>B62</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B676</string>
-		<key>number</key>
-		<string>B676</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
 		<key>title</key>
-		<string>Paleontology - Prehistoric Life</string>
+		<string>Stirrup-spout vessel with male figure</string>
+		<key>imageFileNameBase</key>
+		<string>B63</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B687</string>
-		<key>number</key>
-		<string>B687</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1400</string>
 		<key>title</key>
-		<string>Astronomy - Exploring the Universe</string>
+		<string>Vessel in the form of a tattooed man</string>
+		<key>imageFileNameBase</key>
+		<string>B64</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>View-Master Science Series</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B682</string>
-		<key>number</key>
-		<string>B682</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 200</string>
 		<key>title</key>
-		<string>Physics - Matter and Energy</string>
+		<string>Pot drum</string>
+		<key>imageFileNameBase</key>
+		<string>B65</string>
 	</dict>
 	<dict>
-		<key>category</key>
-		<string>HISTORY</string>
-		<key>imageFileNameBase</key>
-		<string>B790</string>
-		<key>number</key>
-		<string>B790</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1200</string>
 		<key>title</key>
-		<string>Civil War</string>
+		<string>Human figure</string>
+		<key>imageFileNameBase</key>
+		<string>B66</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Illinois</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A552</string>
-		<key>number</key>
-		<string>A552</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 600</string>
 		<key>title</key>
-		<string>Museum of Science and Industry, Chicago</string>
+		<string>Hat</string>
+		<key>imageFileNameBase</key>
+		<string>B67</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Midwest Area</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A390</string>
-		<key>number</key>
-		<string>A390</string>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 750</string>
 		<key>title</key>
-		<string>Lincoln Heritage Trail</string>
+		<string>Incense burner</string>
+		<key>imageFileNameBase</key>
+		<string>B68</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Midwest Area</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A449</string>
-		<key>number</key>
-		<string>A449</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 800</string>
 		<key>title</key>
-		<string>Ozark Mountains, Arkansas and Missouri</string>
+		<string>Staff</string>
+		<key>imageFileNameBase</key>
+		<string>B69</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Texas</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A418</string>
-		<key>number</key>
-		<string>A418</string>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>AD 100</string>
 		<key>title</key>
-		<string>LBJ Country</string>
+		<string>Male figure</string>
+		<key>imageFileNameBase</key>
+		<string>B71</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>England</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>C282</string>
-		<key>number</key>
-		<string>C282</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 1425</string>
 		<key>title</key>
-		<string>Madame Tussaud&apos;s Waxworks</string>
+		<string>Vessel representing terraced agricultural fields</string>
+		<key>imageFileNameBase</key>
+		<string>B72</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Virginia</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A827</string>
-		<key>number</key>
-		<string>A827</string>
+		<key>location</key>
+		<string>Bolivia</string>
+		<key>date</key>
+		<string>AD 600</string>
 		<key>title</key>
-		<string>Monticello, Home of Thomas Jefferson</string>
+		<string>Incense burner in the form of a condor</string>
+		<key>imageFileNameBase</key>
+		<string>B73</string>
 	</dict>
 	<dict>
-		<key>category</key>
-		<string>SEVEN WONDERS OF THE WORLD</string>
-		<key>imageFileNameBase</key>
-		<string>B901</string>
-		<key>number</key>
-		<string>B901</string>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>600 BC</string>
 		<key>title</key>
-		<string>Seven Wonders of the World</string>
+		<string>Vessel in the form of a tattooed man</string>
+		<key>imageFileNameBase</key>
+		<string>B74</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Kentucky</string>
-		<key>category</key>
-		<string>UNITED STATES PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>A846</string>
-		<key>number</key>
-		<string>A846</string>
+		<key>location</key>
+		<string>Ecuado</string>
+		<key>date</key>
+		<string>AD 400</string>
 		<key>title</key>
-		<string>Mammoth Cave National Park</string>
+		<string>Whistle in the form of an elaborately dressed man</string>
+		<key>imageFileNameBase</key>
+		<string>B75</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>The Space Age</string>
-		<key>category</key>
-		<string>WORLD OF SCIENCE</string>
-		<key>imageFileNameBase</key>
-		<string>B663</string>
-		<key>number</key>
-		<string>B663</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 700</string>
 		<key>title</key>
-		<string>Apollo Moon Landing, July 20th, 1969</string>
+		<string>Poncho</string>
+		<key>imageFileNameBase</key>
+		<string>B76</string>
 	</dict>
 	<dict>
-		<key>category</key>
-		<string>HISTORY</string>
-		<key>imageFileNameBase</key>
-		<string>B685</string>
-		<key>number</key>
-		<string>B685</string>
+		<key>location</key>
+		<string>Peru</string>
+		<key>date</key>
+		<string>AD 900</string>
 		<key>title</key>
-		<string>History of Flight</string>
+		<string>Vessel in the form of a man with a llama</string>
+		<key>imageFileNameBase</key>
+		<string>B77</string>
 	</dict>
 	<dict>
-		<key>subcategory</key>
-		<string>Germany</string>
-		<key>category</key>
-		<string>EUROPE PICTURE TOURS</string>
-		<key>imageFileNameBase</key>
-		<string>B192</string>
-		<key>number</key>
-		<string>B192</string>
+		<key>location</key>
+		<string>Ecuador</string>
+		<key>date</key>
+		<string>4000 BC</string>
 		<key>title</key>
-		<string>Berlin</string>
+		<string>Female figure</string>
+		<key>imageFileNameBase</key>
+		<string>B78</string>
 	</dict>
 </array>
 </plist>
